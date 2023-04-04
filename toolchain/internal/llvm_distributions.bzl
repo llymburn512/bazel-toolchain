@@ -239,6 +239,9 @@ _llvm_distributions = {
     "clang+llvm-15.0.7-powerpc64le-linux-rhel-8.4.tar.xz": "2163cc934437146dc30810a21a46327ba3983f123c3bea19be316a64135b6414",
     "clang+llvm-15.0.7-powerpc64le-linux-ubuntu-18.04.tar.xz": "19a16d768e15966923b0cbf8fc7dc148c89e316857acd89ad3aff72dcfcd61f4",
     "clang+llvm-15.0.7-x86_64-apple-darwin21.0.tar.xz": "d16b6d536364c5bec6583d12dd7e6cf841b9f508c4430d9ee886726bd9983f1c",
+
+    # 16.0.0
+    "clang+llvm-16.0.0-x86_64-linux-gnu-ubuntu-18.04.tar.xz": "2b8a69798e8dddeb57a186ecac217a35ea45607cb2b3cf30014431cff4340ad1",
 }
 
 # Note: Unlike the user-specified llvm_mirror attribute, the URL prefixes in
